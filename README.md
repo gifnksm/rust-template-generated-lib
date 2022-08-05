@@ -24,8 +24,8 @@ rust-template-generated-lib = "0.0.0"
 The minimum supported Rust version is **Rust 1.59.0**.
 At least the last 3 versions of stable Rust are supported at any given time.
 
-While a crate is pre-release status (0.x.x) it may have its MSRV bumped in a patch release.
-Once a crate has reached 1.x, any MSRV bump will be accompanied with a new minor version.
+While a crate is a pre-release status (0.x.x) it may have its MSRV bumped in a patch release.
+Once a crate has reached 1.x, any MSRV bump will be accompanied by a new minor version.
 
 ## License
 

@@ -16,7 +16,6 @@ categories = []
 [dependencies]
 
 [dev-dependencies]
-version-sync = "0.9.4"
 cargo-readme = "3.2.0"
 
 [build-dependencies]

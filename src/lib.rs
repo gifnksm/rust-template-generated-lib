@@ -6,10 +6,10 @@
 //!
 //! ```toml
 //! [dependencies]
-//! rust-template-generated-lib = "0.2.0"
+//! rust-template-generated-lib = "0.2.1"
 //! ```
 
-#![doc(html_root_url = "https://docs.rs/rust-template-generated-lib/0.2.0")]
+#![doc(html_root_url = "https://docs.rs/rust-template-generated-lib/0.2.1")]
 
 #[cfg(test)]
 mod tests {

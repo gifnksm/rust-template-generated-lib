@@ -16,7 +16,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-rust-template-generated-lib = "0.1.0"
+rust-template-generated-lib = "0.2.0"
 ```
 
 ## Minimum supported Rust version (MSRV)

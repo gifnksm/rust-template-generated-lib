@@ -1,6 +1,3 @@
-[workspace]
-members = ["xtask"]
-
 [package]
 name = "rust-template-generated-lib"
 version = "0.2.5-alpha.0"
@@ -27,7 +24,6 @@ github-actions = { workflows = "ci.yml" }
 codecov = true
 
 [dependencies]
-
 [dev-dependencies]
 [build-dependencies]
 

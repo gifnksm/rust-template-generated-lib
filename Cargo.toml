@@ -23,13 +23,5 @@ rust-version = true
 github-actions = { workflows = "ci.yml" }
 codecov = true
 
-[dependencies]
-[dev-dependencies]
-[build-dependencies]
-
-[profile.dev]
-
-[profile.release]
-
 [badges]
 maintenance = { status = "passively-maintained" }

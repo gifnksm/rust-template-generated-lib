@@ -5,11 +5,10 @@
 <!-- rumdl-enable MD063 -->
 <!-- cargo-sync-rdme badge [[ -->
 [![Maintenance: passively-maintained](https://img.shields.io/badge/maintenance-passively--maintained-yellowgreen.svg?style=flat-square)](https://doc.rust-lang.org/cargo/reference/manifest.html#the-badges-section)
-[![License: MIT OR Apache-2.0](https://img.shields.io/crates/l/rust-template-generated-lib.svg?style=flat-square)](#license)
 [![crates.io](https://img.shields.io/crates/v/rust-template-generated-lib.svg?logo=rust&style=flat-square)](https://crates.io/crates/rust-template-generated-lib)
 [![docs.rs](https://img.shields.io/docsrs/rust-template-generated-lib.svg?logo=docs.rs&style=flat-square)](https://docs.rs/rust-template-generated-lib)
-[![Rust: ^1.94.0](https://img.shields.io/badge/rust-^1.94.0-93450a.svg?logo=rust&style=flat-square)](https://doc.rust-lang.org/cargo/reference/manifest.html#the-rust-version-field)
 [![GitHub Actions: CI](https://img.shields.io/github/actions/workflow/status/gifnksm/rust-template-generated-lib/ci.yml.svg?label=CI&logo=github&style=flat-square)](https://github.com/gifnksm/rust-template-generated-lib/actions/workflows/ci.yml)
+[![GitHub Actions: Audit](https://img.shields.io/github/actions/workflow/status/gifnksm/rust-template-generated-lib/audit.yml.svg?label=Audit&logo=github&style=flat-square)](https://github.com/gifnksm/rust-template-generated-lib/actions/workflows/audit.yml)
 [![Codecov](https://img.shields.io/codecov/c/github/gifnksm/rust-template-generated-lib.svg?label=codecov&logo=codecov&style=flat-square)](https://codecov.io/gh/gifnksm/rust-template-generated-lib)
 <!-- cargo-sync-rdme ]] -->
 
